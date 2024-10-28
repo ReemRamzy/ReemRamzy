@@ -1,6 +1,6 @@
 # Hi, I'm Reem Ramzy
 
-I'm a Full Stack Developer with an Electronics & Communication Engineering degree. I specialize in crafting robust web applications and APIs with a strong focus on Laravel. 
+I'm a Full Stack Developer with an Electronics & Communication Engineering degree. I specialize in crafting robust web applications and APIs with a strong focus on Laravel and VueJs. 
 
 ## 🌟 Skills and Technologies
 
